@@ -5,15 +5,20 @@ Enthusiastic and driven individual,who is always passionate to aquire new learni
 <p></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anisham-733&label=Profile%20views&color=0e75b6&style=flat" alt="anisham-733" /> </p>
 
-- 🔭 I’m currently working on **Weather Application fetching real time data through API**
+- ☁ I’m currently working on **Weather Application, fetching real time data through API | Node.js | Express.js**
 
 - 🌱 I’m currently learning **Angular, Node.js**
 
 - 👨‍💻 All of my projects are available at [github.com/anisham-733/](github.com/anisham-733/)
 
-- 💬 Ask me about **JavaScript, Node.js, functional programming concepts,**
+- 💬 Ask me about **
+            ⚫ JavaScript
+            ⚫ Node.js
+            ⚫ Functional programming concepts
+            ⚫ Data Analysis**
 
-- 📫 How to reach me **anisha.amcse@gmail.com**
+- 📫 How to reach me **
+            ⚫  anisha.amcse@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sUNJR6D9oZyXsIp7yd0aK6_97IfhyLip/view?usp=sharing](https://drive.google.com/file/d/1sUNJR6D9oZyXsIp7yd0aK6_97IfhyLip/view?usp=sharing)
 
