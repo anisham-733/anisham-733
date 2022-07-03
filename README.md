@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anisha Mahajan</h1>
 <h3 align="center">Software Engineer | Web Developer</h3>
-<h4>About me:</h4>
+<h4> About me:</h4>
 Enthusiastic and driven individual,who is always passionate to aquire new learnings. A person who wants to achieve heights of success with consistent hardwork and self-improvement. Proficient in Web Development technologies, software development, Data Science and foundational programming concepts. Highly organized and hardworking graduate, as always strived to maintain a good academic record. Oracle Certified and possess understanding of core cloud computing concepts.
 <p></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anisham-733&label=Profile%20views&color=0e75b6&style=flat" alt="anisham-733" /> </p>
@@ -12,11 +12,11 @@ Enthusiastic and driven individual,who is always passionate to aquire new learni
 - 👨‍💻 All of my projects are available at [github.com/anisham-733/](github.com/anisham-733/)
 
 - 💬 Ask me about **
-<ul><li>⚫ JavaScript</li>
-            <li>⚫ Node.js</li>
-            ⚫ Functional programming concepts
-            ⚫ Data Analysis**
-
+            <ul><li>⚫ JavaScript</li>
+                        <li>⚫ Node.js</li>
+            <li>⚫ Functional programming concepts</li>
+            <li>⚫ Data Analysis**</li>
+</ul>
 - 📫 How to reach me **
             ⚫  anisha.amcse@gmail.com**
 
