@@ -44,4 +44,4 @@ Enthusiastic and driven individual,who is always passionate to aquire new learni
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anisham-733&show_icons=true&locale=en" alt="anisham-733" /></p>
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anisham-733)  
