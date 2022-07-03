@@ -11,14 +11,16 @@ Enthusiastic and driven individual,who is always passionate to aquire new learni
 
 - 👨‍💻 All of my projects are available at [github.com/anisham-733/](github.com/anisham-733/)
 
-- 💬 Ask me about **
-            <ul><li>⚫ JavaScript</li>
-                        <li>⚫ Node.js</li>
-            <li>⚫ Functional programming concepts</li>
-            <li>⚫ Data Analysis**</li>
+- 💬 Ask me about 
+            <ul> <li> JavaScript</li>
+                 <li>Node.js</li>
+                 <li>Functional programming concepts</li>
+                 <li Data Analysis</li>
 </ul>
-- 📫 How to reach me **
-            ⚫  anisha.amcse@gmail.com**
+- 📫 How to reach me 
+-           <ul>
+            <li>📧 anisha.amcse@gmail.com</li>
+            <li>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sUNJR6D9oZyXsIp7yd0aK6_97IfhyLip/view?usp=sharing](https://drive.google.com/file/d/1sUNJR6D9oZyXsIp7yd0aK6_97IfhyLip/view?usp=sharing)
 
