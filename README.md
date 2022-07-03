@@ -45,3 +45,11 @@ Enthusiastic and driven individual,who is always passionate to aquire new learni
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anisham-733&show_icons=true&locale=en" alt="anisham-733" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anisham-733)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anisham-733&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anisham-733)  
+
+![GitHub metrics](https://metrics.lecoq.io/anisham-733)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anisham-733)  
+
