@@ -12,8 +12,8 @@ Enthusiastic and driven individual,who is always passionate to aquire new learni
 - 👨‍💻 All of my projects are available at [github.com/anisham-733/](github.com/anisham-733/)
 
 - 💬 Ask me about **
-            ⚫ JavaScript
-            ⚫ Node.js
+<ul><li>⚫ JavaScript</li>
+            <li>⚫ Node.js</li>
             ⚫ Functional programming concepts
             ⚫ Data Analysis**
 
