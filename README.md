@@ -11,9 +11,8 @@ Enthusiastic and driven individual,who is always passionate to aquire new learni
 <a href="https://www.leetcode.com/https://leetcode.com/anisham-733/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anisham-733/" height="30" width="40" /></a>
 
 </p>
-<h3 align="left">Reach me at:</h3>
 <p align="left">
- <h3>📧 anisha.amcse@gmail.com</h3>
+<h3 align="left">Reach me at: 📧 anisha.amcse@gmail.com</h3>
  </p>
  
          
@@ -45,4 +44,4 @@ Enthusiastic and driven individual,who is always passionate to aquire new learni
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anisham-733&show_icons=true&locale=en" alt="anisham-733" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anisham-733&" alt="anisham-733" /></p>
+
