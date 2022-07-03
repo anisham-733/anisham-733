@@ -9,12 +9,15 @@ Enthusiastic and driven individual,who is always passionate to aquire new learni
 <p align="left">
 <a href="https://linkedin.com/in/anisha-mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anisha-mahajan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/anisham-733/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anisham-733/" height="30" width="40" /></a>
- <a href = "mailto: anisha.amcse@gmail.com"><img align='center' src="📧"></a>
-</p>
 
+</p>
+<h3 align="left">Reach me at:</h3>
+<p align="left">
+ <h3>📧 anisha.amcse@gmail.com</h3>
+ </p>
  
          
-- 📄 <h3>My Resume:</h3> [https://drive.google.com/file/d/1sUNJR6D9oZyXsIp7yd0aK6_97IfhyLip/view?usp=sharing](https://drive.google.com/file/d/1sUNJR6D9oZyXsIp7yd0aK6_97IfhyLip/view?usp=sharing)
+ 📄 <h3>My Resume:</h3> [https://drive.google.com/file/d/1sUNJR6D9oZyXsIp7yd0aK6_97IfhyLip/view?usp=sharing](https://drive.google.com/file/d/1sUNJR6D9oZyXsIp7yd0aK6_97IfhyLip/view?usp=sharing)
 - ☁ I’m currently working on **Weather Application, fetching real time data through API | Node.js | Express.js**
 
 - 🌱 I’m currently learning **Angular, Node.js**
