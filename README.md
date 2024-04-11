@@ -40,7 +40,7 @@ Enthusiastic and driven individual with the ability to work independently or wit
  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png"
 alt="C#" width="40" height="40"/> </a>
  
- <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png" alt="AP .NET MVC" width="40" height="40"/> </a>
+ <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png" alt="AP .NET MVC" width="50" height="50"/> </a>
  
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="http://ncubo.com/wp-content/uploads/2019/12/NET_Core_Logo.svg_.png" alt=".NET CORE" width="40" height="40"/> </a>
  
