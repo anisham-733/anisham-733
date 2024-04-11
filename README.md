@@ -38,25 +38,9 @@ Enthusiastic and driven individual with the ability to work independently or wit
 <p align="left"> 
  
  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png"
-alt="C#" width="40" height="40"/> </a>
- 
- <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png" alt="AP .NET MVC" width="50" height="50"/> </a>
- 
- <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0" target="_blank" rel="noreferrer"> <img src="http://ncubo.com/wp-content/uploads/2019/12/NET_Core_Logo.svg_.png" alt=".NET CORE" width="40" height="40"/> </a>
- 
- <a href="https://docs.telerik.com/aspnet-core/introduction" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wFv9H5TjrlvtmZOpZCzHSQAAAA?rs=1&pid=ImgDetMain" alt="Telerikb Kendo" alt=".Telerik Kendo UI" width="40" height="40"/> </a> 
- 
- <a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-dotnet-core?view=azuresql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL Server" width="40" height="40"/> </a> 
- 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- 
- <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wFv9H5TjrlvtmZOpZCzHSQAAAA?rs=1&pid=ImgDetMain" alt="CSS" width="40" height="40"/> </a>
- 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+alt="C#" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png" alt="AP .NET MVC" width="50" height="50"/> </a> <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0" target="_blank" rel="noreferrer"> <img src="http://ncubo.com/wp-content/uploads/2019/12/NET_Core_Logo.svg_.png" alt=".NET CORE" width="40" height="40"/> </a> <a href="https://docs.telerik.com/aspnet-core/introduction" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wFv9H5TjrlvtmZOpZCzHSQAAAA?rs=1&pid=ImgDetMain" alt="Telerikb Kendo" alt=".Telerik Kendo UI" width="40" height="40"/> </a>  <a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-dotnet-core?view=azuresql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL Server" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wFv9H5TjrlvtmZOpZCzHSQAAAA?rs=1&pid=ImgDetMain" alt="CSS" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/jquery/" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/941140.jpg" alt="Jquery" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 
- <a href="https://www.w3schools.com/jquery/" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/941140.jpg" alt="Jquery" width="40" height="40"/> </a>
- 
- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </p>
+
 
 <h3>Some Statistics Information</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anisham-733&show_icons=true&locale=en&layout=compact" alt="anisham-733" /></p>
