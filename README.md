@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anisha Mahajan</h1>
-<h3 align="center">Software Engineer | Web Developer</h3>
+<h3 align="center">.NET Developer | Software Engineer </h3>
 <h4> About me:</h4>
 Enthusiastic and driven individual,who is always passionate to aquire new learnings. A person who wants to achieve heights of success with consistent hardwork and self-improvement. Proficient in Web Development technologies, software development, .NET Programming and foundational programming concepts. Highly organized and hardworking graduate, as always strived to maintain a good academic record. AZ-204 Certified, AWS Cloud Practitioner Essentials and Oracle Certified.
 <p></p>
