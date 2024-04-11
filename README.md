@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anisha Mahajan</h1>
 <h3 align="center">Software Engineer | Web Developer</h3>
 <h4> About me:</h4>
-Enthusiastic and driven individual,who is always passionate to aquire new learnings. A person who wants to achieve heights of success with consistent hardwork and self-improvement. Proficient in Web Development technologies, software development, Data Science and foundational programming concepts. Highly organized and hardworking graduate, as always strived to maintain a good academic record. Oracle Certified and possess understanding of core cloud computing concepts.
+Enthusiastic and driven individual,who is always passionate to aquire new learnings. A person who wants to achieve heights of success with consistent hardwork and self-improvement. Proficient in Web Development technologies, software development, .NET Programming and foundational programming concepts. Highly organized and hardworking graduate, as always strived to maintain a good academic record. AZ-204 Certified, AWS Cloud Practitioner Essentials and Oracle Certified.
 <p></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anisham-733&label=Profile%20views&color=0e75b6&style=flat" alt="anisham-733" /> </p>
 
@@ -17,17 +17,17 @@ Enthusiastic and driven individual,who is always passionate to aquire new learni
  
  📄 My Resume [https://drive.google.com/file/d/1sUNJR6D9oZyXsIp7yd0aK6_97IfhyLip/view?usp=sharing](https://drive.google.com/file/d/1sUNJR6D9oZyXsIp7yd0aK6_97IfhyLip/view?usp=sharing)
 
-- ☁ I’m currently working on **Weather Application, fetching real time data through API | Node.js | Express.js**
+- ☁ I’m currently working on **ASP .NET MVC, C# Programming language, Telerik and SQL**
 
-- 🌱 I’m currently learning **Angular, Node.js**
+- 🌱 I’m currently learning **ASP .NET DESIGN PATTERNS AND AZURE SERVICES**
 
 - 👨‍💻 All of my projects are available at [github.com/anisham-733/](github.com/anisham-733/)
 
 - 💬 Ask me about 
-            <ul> <li> JavaScript</li>
-                 <li>Node.js</li>
+            <ul> <li> .NET CORE</li>
+                 <li>MVC</li>
                  <li>Functional programming concepts</li>
-                 <li>Data Analysis</li>
+                 <li>Azure</li>
             </ul>
 
 
