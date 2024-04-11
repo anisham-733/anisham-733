@@ -32,12 +32,7 @@ Enthusiastic and driven individual with the ability to work independently or wit
                  <li> LINQ SQL </li>
             </ul>
 
-
-
-
 - ⚡ Fun fact **Affable person**
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="[https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png](https://learn.microsoft.com/en-us/dotnet/csharp/)" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png"
