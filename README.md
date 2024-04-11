@@ -15,7 +15,8 @@ Enthusiastic and driven individual,who is always passionate to aquire new learni
 <h3 align="left">Reach me at: 📧 anisha.amcse@gmail.com</h3>
  </p>
  
- 📄 My Resume [https://drive.google.com/file/d/1sUNJR6D9oZyXsIp7yd0aK6_97IfhyLip/view?usp=sharing](https://drive.google.com/file/d/1sUNJR6D9oZyXsIp7yd0aK6_97IfhyLip/view?usp=sharing)
+ 📄 My Resume [Resume_Anisha_Mahajan]
+ ([https://drive.google.com/file/d/1sUNJR6D9oZyXsIp7yd0aK6_97IfhyLip/view?usp=sharing](https://drive.google.com/file/d/1Fw4gy2yT55MiES4fE9gW_QtLtTJJ6PRW/view?usp=drivesdk))
 
 - ☁ I’m currently working on **ASP .NET MVC, C# Programming language, Telerik and SQL**
 
