@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anisha Mahajan</h1>
 <h3 align="center">.NET Developer | Software Engineer </h3>
 <h4> About me:</h4>
-Enthusiastic and driven individual,who is always passionate to aquire new learnings. A person who wants to achieve heights of success with consistent hardwork and self-improvement. Proficient in Web Development technologies, software development, .NET Programming and foundational programming concepts. Highly organized and hardworking graduate, as always strived to maintain a good academic record. AZ-204 Certified, AWS Cloud Practitioner Essentials and Oracle Certified.
+Enthusiastic and driven individual with the ability to work independently or within a team dynamic. Proficient in desktop web applications design and development, grounded in strong problem-solving skills. Skilled in Backend C#, .ASP .NET MVC logical programming, complemented by critical thinking and leadership capabilities. Ability to translate business requirements into technical solutions.  AZ-204 Certified, AWS Cloud Practitioner Essentials and Oracle Certified.
 <p></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anisham-733&label=Profile%20views&color=0e75b6&style=flat" alt="anisham-733" /> </p>
 
