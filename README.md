@@ -44,7 +44,7 @@ alt="C#" width="40" height="40"/> </a>
  
  <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0" target="_blank" rel="noreferrer"> <img src="http://ncubo.com/wp-content/uploads/2019/12/NET_Core_Logo.svg_.png" alt=".NET CORE" width="40" height="40"/> </a>
  
- <a href="https://docs.telerik.com/aspnet-core/introduction" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/progress-telerik9946.jpg" alt="Telerikb Kendo" alt=".Telerik Kendo UI" width="40" height="40"/> </a> 
+ <a href="https://docs.telerik.com/aspnet-core/introduction" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wFv9H5TjrlvtmZOpZCzHSQAAAA?rs=1&pid=ImgDetMain" alt="Telerikb Kendo" alt=".Telerik Kendo UI" width="40" height="40"/> </a> 
  
  <a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-dotnet-core?view=azuresql" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL Server" width="40" height="40"/> </a> 
  
