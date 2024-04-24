@@ -19,7 +19,7 @@ Enthusiastic and driven individual with the ability to work independently or wit
 
 - ☁ I’m currently working on **ASP .NET MVC, C# Programming language, Telerik and SQL**
 
-- 🌱 I’m currently learning **ASP .NET DESIGN PATTERNS AND AZURE SERVICES**
+- 🌱 I’m currently learning **ASP .NET DESIGN PATTERNS, BLAZOR & AZURE SERVICES**
 
 - 👨‍💻 All of my projects are available at [github.com/anisham-733/](github.com/anisham-733/)
 
